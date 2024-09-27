@@ -1,0 +1,14 @@
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\bin\Debug\net8.0\MtsToMp4Converter.exe
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\bin\Debug\net8.0\MtsToMp4Converter.deps.json
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\bin\Debug\net8.0\MtsToMp4Converter.runtimeconfig.json
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\bin\Debug\net8.0\MtsToMp4Converter.dll
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\bin\Debug\net8.0\MtsToMp4Converter.pdb
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\obj\Debug\net8.0\MtsToMp4Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\obj\Debug\net8.0\MtsToMp4Converter.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\obj\Debug\net8.0\MtsToMp4Converter.AssemblyInfo.cs
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\obj\Debug\net8.0\MtsToMp4Converter.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\obj\Debug\net8.0\MtsToMp4Converter.dll
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\obj\Debug\net8.0\refint\MtsToMp4Converter.dll
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\obj\Debug\net8.0\MtsToMp4Converter.pdb
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\obj\Debug\net8.0\MtsToMp4Converter.genruntimeconfig.cache
+C:\Users\Administrador\Documents\workspace\github.com\santiago-ondris\MtsToMp4Converter\obj\Debug\net8.0\ref\MtsToMp4Converter.dll
