@@ -40,7 +40,7 @@ class Program
         var startInfo = new ProcessStartInfo
         {
             FileName = ffmpegPath,
-            // Argumentos para la conversión: entrada, códec de video, preajuste, calidad, códec de audio, tasa de bits de audio, salida
+            // Argumentos para la conversion: entrada, códec de video, preajuste, calidad, códec de audio, tasa de bits de audio, salida
             Arguments = $"-i \"{inputFile}\" -c:v libx264 -preset medium -crf 23 -c:a aac -b:a 128k \"{outputFile}\"",
             RedirectStandardOutput = true,
             RedirectStandardError = true,
@@ -48,7 +48,7 @@ class Program
             CreateNoWindow = true
         };
 
-        // Iniciar el proceso de conversión
+        // Iniciar el proceso de conversion
         using (var process = new Process { StartInfo = startInfo })
         {
             process.Start();
@@ -66,7 +66,7 @@ class Program
             // Esperar a que el proceso termine
             await process.WaitForExitAsync();
 
-            // Verificar si la conversión fue exitosa
+            // Verificar si la conversion fue exitosa
             if (process.ExitCode != 0)
             {
                 Console.WriteLine($"Error al convertir {inputFile}: {error}");
